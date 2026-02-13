@@ -1,3 +1,4 @@
-https://drive.google.com/file/d/1WERN1_hGR7TWvuscP7BCqqXsTNzij5oF/view?usp=drive_link
+Cheat GUI: https://drive.google.com/file/d/1WERN1_hGR7TWvuscP7BCqqXsTNzij5oF/view?usp=drive_link
+Game: https://lunodev.itch.io/goofy-shoot/download/eyJleHBpcmVzIjoxNzcwOTk1NTU2LCJpZCI6NDIwNDAzM30%3d.1XivFdvXXDWZXRksLicb4k22RXE%3d
 
 When you download the zip, extract the contents into the same file for it to run.
